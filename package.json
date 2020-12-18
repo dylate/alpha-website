@@ -1,0 +1,14 @@
+{
+  "name": "alpha_website",
+  "version": "1.0.0",
+  "description": "Static website for Courtney Scott's marketing brand: Alpha Media Marketing",
+  "main": "index.js",
+  "author": "Morgan Billingsley <morgan@dylate.net>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "serve-handler": "^6.1.3"
+  }
+}
