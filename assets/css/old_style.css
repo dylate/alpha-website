@@ -1,0 +1,108 @@
+/* TYPOGRAPHY */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h4, h5, h6 {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+h4 {
+    font-size: 26px;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 18px;
+}
+
+.text-primary {
+    color: #B90EDF;
+} */
+
+.main-header-bg {
+    background-image: url('../img/header-bg.svg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 0 0 60px 0;
+}
+
+.secondary-header-bg {
+    background-image: url('../img/header-secondary-bg.svg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 0 0 60px 0;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+section, footer {
+    padding: 80px 0;
+}
+
+footer {
+    text-align: center;
+}
+
+.bg-brand {
+    background-image: url('../img/section-primary-bg.svg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+.bg-brand-secondary {
+    background-image: url('../img/section-secondary-bg.svg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+.bg-brand-light {
+    background-image: url('../img/section-light-bg.svg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: #000;
+}
+
+.img-client {
+    max-width: 150px;
+}
+
+.owner-image {
+    position: relative;
+    max-width: 150px;
+    margin-bottom: 30px;
+}
+
+.owner-image img {
+    border-radius: 50%;
+}
+
+.owner-imgage img:after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    background-color: rgba(0,0,0,0.5);
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}

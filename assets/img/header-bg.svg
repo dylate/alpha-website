@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none">
+    <g id="primaryHeader" data-name="Primary Header">
+        <rect id="background" data-name="Background" width="100%" height="100%" fill="#0f0e24"/>
+        <polygon id="bottomLeftTriangle" data-name="Bottom Left Triangle" points="0,100 50,100, 0,75" fill="rgba(68,50,141,0.56)" />
+        <polygon id="bottomRightTriangle" data-name="Bottom Right Triangle" points="100,100 5,100, 100,75" fill="rgba(68,50,141,0.56)" />
+    </g>
+</svg>
