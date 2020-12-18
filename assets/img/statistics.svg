@@ -1,6 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="583" height="444.44" viewBox="0 0 583 444.44">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800');
+    </style>
+  </defs>
   <text id="Total_Business_Created" data-name="Total Business Created" transform="translate(113 25)" font-size="26" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">TOTAL BUSINESS CREATED</tspan></text>
-  <text id="_1_Million" data-name="$1 Million" transform="translate(109 95)" fill="#b90edf" font-size="65" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">$1 MILLION</tspan></text>
+  <text id="_5_Million_" data-name="$5 Million +" transform="translate(109 95)" fill="#b90edf" font-size="65" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">$5 MILLION +</tspan></text>
   <g id="Group_24" data-name="Group 24" transform="translate(-232 -1021)">
     <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(232 1167)" fill="#0f0e24" stroke="#707070" stroke-width="1">
       <rect width="285" height="140" rx="14" stroke="none"/>
@@ -74,8 +79,8 @@
       </g>
     </g>
   </g>
-  <text id="CLIENTS_HELPED" data-name="CLIENTS HELPED" transform="translate(24 185)" fill="#fff" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">CLIENTS HELPED</tspan></text>
-  <text id="_50" data-name="50" transform="translate(24 253)" fill="#b90edf" font-size="65" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">25</tspan></text>
+  <text id="Clients_Helped" data-name="Clients Helped" transform="translate(24 185)" fill="#fff" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">CLIENTS HELPED</tspan></text>
+  <text id="_25" data-name="25" transform="translate(24 253)" fill="#b90edf" font-size="65" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">25</tspan></text>
   <g id="Group_25" data-name="Group 25" transform="translate(66 -1021)">
     <g id="Rectangle_8-2" data-name="Rectangle 8" transform="translate(232 1167)" fill="#0f0e24" stroke="#707070" stroke-width="1">
       <rect width="285" height="140" rx="14" stroke="none"/>
@@ -149,8 +154,8 @@
       </g>
     </g>
   </g>
-  <text id="SPENT" data-name="SPENT" transform="translate(322 185)" fill="#fff" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">SPENT</tspan></text>
-  <text id="_750k_" data-name="$750k" transform="translate(322 253)" fill="#b90edf" font-size="65" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">$750k</tspan></text>
+  <text id="Spent" transform="translate(322 185)" fill="#fff" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">SPENT</tspan></text>
+  <text id="_750k" data-name="$750k" transform="translate(322 253)" fill="#b90edf" font-size="65" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">$750k</tspan></text>
   <g id="Group_26" data-name="Group 26" transform="translate(-232 -863)">
     <g id="Rectangle_8-3" data-name="Rectangle 8" transform="translate(232 1167)" fill="#0f0e24" stroke="#707070" stroke-width="1">
       <rect width="285" height="140" rx="14" stroke="none"/>
@@ -224,8 +229,8 @@
       </g>
     </g>
   </g>
-  <text id="OFFICES" transform="translate(24 343)" fill="#fff" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">OFFICES</tspan></text>
-  <text id="_0-2" data-name="0" transform="translate(24 411)" fill="#b90edf" font-size="65" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">0</tspan></text>
+  <text id="ROAS" transform="translate(24 343)" fill="#fff" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">ROAS</tspan></text>
+  <text id="_7x" data-name="7x" transform="translate(24 411)" fill="#b90edf" font-size="65" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">7X</tspan></text>
   <g id="Group_27" data-name="Group 27" transform="translate(66 -863)">
     <g id="Rectangle_8-4" data-name="Rectangle 8" transform="translate(232 1167)" fill="#0f0e24" stroke="#707070" stroke-width="1">
       <rect width="285" height="140" rx="14" stroke="none"/>
@@ -299,6 +304,6 @@
       </g>
     </g>
   </g>
-  <text id="SERVICE" data-name="SERVICE" transform="translate(322 343)" fill="#fff" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">SERVICE</tspan></text>
+  <text id="Service" transform="translate(322 343)" fill="#fff" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">SERVICE</tspan></text>
   <text id="_1" data-name="1" transform="translate(322 411)" fill="#b90edf" font-size="65" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">1</tspan></text>
 </svg>
