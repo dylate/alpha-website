@@ -4,8 +4,6 @@
       @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800');
     </style>
   </defs>
-  <text id="Total_Business_Created" data-name="Total Business Created" transform="translate(113 25)" font-size="26" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">TOTAL BUSINESS CREATED</tspan></text>
-  <text id="_5_Million_" data-name="$5 Million +" transform="translate(109 95)" fill="#b90edf" font-size="65" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">$5 MILLION +</tspan></text>
   <g id="Group_24" data-name="Group 24" transform="translate(-232 -1021)">
     <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(232 1167)" fill="#0f0e24" stroke="#707070" stroke-width="1">
       <rect width="285" height="140" rx="14" stroke="none"/>
