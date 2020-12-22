@@ -25,6 +25,11 @@ $btn-border-radius: 3rem;
 
 @import './bootstrap/bootstrap.scss';
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 /* TYPOGRAPHY */
 
 h3 {
