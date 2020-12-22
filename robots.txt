@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /*
+Disallow: /coming_soon*
+Disallow: /case_study*
+Sitemap: https://www.alphamediamarketing.co/sitemap.xml
