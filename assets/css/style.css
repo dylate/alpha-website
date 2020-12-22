@@ -10677,14 +10677,20 @@ section, footer {
 }
 
 ul.check-list {
-  list-style-type: square;
-  list-style-image: url("../img/check.svg");
-  list-style-position: inside;
+  list-style: none;
+  padding-left: 0;
 }
 ul.check-list li {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+ul.check-list li::before {
+  content: url("../img/check.svg");
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */

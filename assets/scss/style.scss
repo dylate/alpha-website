@@ -129,12 +129,21 @@ section, footer {
 }
 
 ul.check-list {
-    list-style-type: square;
-    list-style-image: url('../img/check.svg');
-    list-style-position: inside;
+    // list-style-type: square;
+    // list-style-image: url('../img/check.svg');
+    // list-style-position: outside;
+    list-style: none;
+    padding-left: 0;
     li {
         display: flex;
         flex-direction: row;
-        justify-content: center;
+        align-items: center;
+        margin-bottom: 10px;
+        &::before {
+            content: url('../img/check.svg');
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 10px;
+        }
     }
 }
