@@ -10682,13 +10682,9 @@ ul.check-list {
   list-style-position: inside;
 }
 ul.check-list li {
-  position: relative;
-}
-ul.check-list li span {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 /*# sourceMappingURL=style.css.map */

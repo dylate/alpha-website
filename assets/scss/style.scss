@@ -133,12 +133,8 @@ ul.check-list {
     list-style-image: url('../img/check.svg');
     list-style-position: inside;
     li {
-        position: relative;
-        span {
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            left: 40px;
-        }
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
     }
 }
