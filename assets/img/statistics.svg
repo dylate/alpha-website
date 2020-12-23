@@ -227,7 +227,7 @@
       </g>
     </g>
   </g>
-  <text id="ROAS" transform="translate(24 343)" fill="#fff" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">ROAS</tspan></text>
+  <text id="Average ROAS" transform="translate(24 343)" fill="#fff" font-size="18" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Average ROAS</tspan></text>
   <text id="_7x" data-name="7x" transform="translate(24 411)" fill="#b90edf" font-size="65" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">7X</tspan></text>
   <g id="Group_27" data-name="Group 27" transform="translate(66 -863)">
     <g id="Rectangle_8-4" data-name="Rectangle 8" transform="translate(232 1167)" fill="#0f0e24" stroke="#707070" stroke-width="1">
