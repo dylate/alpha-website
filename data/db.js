@@ -6,6 +6,14 @@ const db = {
     hasStorageFile: function() {
         return fs.existsSync(this.storageFilePath);
     },
+    getUsers: function() {
+        if (this.hasStorageFile()) {
+            const fileContents = fs.readFileSync(this.storageFilePath);
+            return JSON.parse(fileContents);
+        } else {
+            return [];
+        }
+    },
     createUser: function(name, email) {
         if (this.hasStorageFile()) {
             this.insertUser(name, email);
