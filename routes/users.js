@@ -18,6 +18,9 @@ const userRoute = {
             if (!json.hasOwnProperty("name") || !json.hasOwnProperty("email")) {
                 throw new Error("Post data does not follow the pattern: { name: string, email: string }");
             }
+        },
+        clear: function() {
+            this.rawData = "";
         }
     },
     "POST": function(request, response) {
@@ -28,6 +31,7 @@ const userRoute = {
                 const userData = this.userCreator.getUserData();
                 db.createUser(userData.name, userData.email);
                 this.sendJson(200, { success: true, message: `The user ${userData.name} was successfully created!` }, response);
+                this.userCreator.clear();
             } catch (error) {
                 console.log(error);
                 this.sendJson(500, { success: false, message: error.message }, response);
