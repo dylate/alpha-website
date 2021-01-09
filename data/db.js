@@ -19,7 +19,7 @@ const db = {
             this.insertUser(name, email);
         } else {
             this.createStorageFile(() => {
-                insertUser(name, email);
+                this.insertUser(name, email);
             });
         }
     },
